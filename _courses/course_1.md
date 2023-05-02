@@ -1,5 +1,5 @@
 ---
-title: "cources 1"
+title: "cources-1"
 collection: courses
 type: "Undergraduate course"
 permalink: /courses/course_1
