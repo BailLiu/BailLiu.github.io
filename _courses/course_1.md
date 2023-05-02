@@ -4,7 +4,7 @@ collection: courses
 type: "courses"
 permalink: /courses/course_1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2022-01-01
 location: "City, Country"
 ---
 
