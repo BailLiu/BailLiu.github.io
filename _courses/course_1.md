@@ -1,7 +1,7 @@
 ---
-title: "cources-1"
+title: "cources_1"
 collection: courses
-type: "Undergraduate course"
+type: "courses"
 permalink: /courses/course_1
 venue: "University 1, Department"
 date: 2014-01-01
