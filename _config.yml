@@ -85,9 +85,9 @@ author:
   bio              : "Pace-setter ahead of others is enough, but the leader is leading everyone forward together"
   location         : "China Qingdao"
   employer         :
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :"2016040216@s.upc.edu.cn"
+  email            : "2016040216@s.upc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
