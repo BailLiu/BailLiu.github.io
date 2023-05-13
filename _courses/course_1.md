@@ -1,5 +1,5 @@
 ---
-title: "project_1"
+title: "Microcontroller Development"
 collection: courses
 type: "courses"
 permalink: /courses/course_1
@@ -10,7 +10,6 @@ location: "City, Country"
 
 Microcontroller Development
 ======
-* Fall 2020: Microcontroller Development
   * Platform: Arduino UNO
   * Technology:C,3D Printing
   * Tasks:Start by easy project,such as RFID card swipe system, 
