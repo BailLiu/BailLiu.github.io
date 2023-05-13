@@ -62,7 +62,9 @@ Project experience
     * Technology: Communication principles
     * Functions: The analog signal is transmitted after sampling, PCM coding,
       BPSK modulation and then restored at the receiver.
-
+ <ul>{% for post in site.courses %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 Publications
 ======
   <ul>{% for post in site.publications %}
