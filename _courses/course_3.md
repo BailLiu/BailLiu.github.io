@@ -3,7 +3,7 @@ title: "Adjustable duty cycle square wave sawtooth wave generator"
 collection: courses
 type: "courses"
 permalink: /courses/course_3
-date:  2020-06-08
+date:  2021-06-20
 location: "City, Country"
 ---
 
