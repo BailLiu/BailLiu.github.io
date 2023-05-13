@@ -13,3 +13,5 @@ Asynchronous FIFO design and implementation
 * Technology: Verilog
 * Task: Write full but not overflowing, read empty but not over read
 * Functions: Dual-port RAM for data storage,Full judgment and data writing controller Empty judgment and data reading controller,Empty and full judgment,Read or       Write Synchronizer
+
+<img src='/images/fifo.png'>
