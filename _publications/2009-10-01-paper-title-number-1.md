@@ -1,10 +1,12 @@
 ---
-title: "基于改进NSGA2算法的空间网络安全与性能优化"
+title: "Game analysis and optimization for evolutionary Dynamic Heterogeneous Redundancy"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '在空间网络不断发展以及攻击威胁日益增加的背景下，其安全问题得到了研究人员的密切关注。但同时，其性能开销也会增大。为解决空间网络通信安全性、服务性能间的联合优化问题，选取机密性、 完整性、可认证性作为安全程度的量化指标，选择时延作为性能指标，建立了网络安全与通信性能间的多目标优化模型。提出了一种ISN-NSGA2算法和纳什议价博弈的多目标优化决策方案。算法利用自适应锦标赛选择算子，促进种群较快收敛；运用基于拥挤熵的个体动态排挤机制代替拥挤距离一次性排挤，维持种群分布性；在得到一组非支配解后，使用合作博弈纳什议价模型进行折中决策。在6个基准多目标测试函数上对算法进行了性能测试，实验结果表明解的均匀性和收敛度均得到了很好的提升。采用该方案对模型求解，能够在适应网络安全和性能需求的情况下，从Pareto解集中选出使网络整体收益最大的最终决策解，有效实现两者的折中优化。'
-date: 2022-11
-journal: '计算机技术与发展'
-Level: '中文核心'
+excerpt: 'Dynamic Heterogeneous Redundancy (DHR) has been considered as a proactive defense architecture against unknown vulnerabilities and backdoors. It is a heterogeneous, fault tolerant, and redundant system, which ensures the security by constantly switching heterogeneous executors. However, a limited number of heterogeneous executors can be merely switched and 
+combined statically. It is diffificult to cope with persistent threats. In this paper, we add evolutionary sub-strategies of executors to solve this problem, studying defense mechanisms of DHR. The attacker and the legitimate user are treated as the visitors and the defender as the server. The original heterogeneous executors are regarded as dynamic distributed heterogeneous executors, aiming to confuse the attacker. Firstly, a game-theoretic analysis of the DHR security mechanism is performed under dynamic incomplete information, and the dilemma of defense is discussed. Secondly, we construct a DHR game model based on evolutionary, which can acquire new equilibriums between the server and visitors through evolutionary sub-strategies. It formally describes strategies and payoffs of all players in the game. And the results are extended to the general case to analyze the Bayesian equilibrium when each service strategy has a different number of evolved sub-strategies. In addition, the correlation factor is added to the game to investigate the impact of the correlation between different heterogeneous executors on defense results. Finally, Gambit and NS2 simulation experiments for the proposed method are shown. Our model proves the effectiveness of the game process and the initiative of defense mechanisms'
+date: 2023-5
+journal: 'IEEE Transactions on Network and Service Management'
+Level: 'SCI2'
 state: '录用'
 
+---
