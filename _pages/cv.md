@@ -65,6 +65,7 @@ Project experience
  <ul>{% for post in site.courses %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
