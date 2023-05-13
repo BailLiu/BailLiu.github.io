@@ -12,5 +12,6 @@ Intelligent Attendance System
 * Platform: Pycharm
 * Technology: Python,OpenCV,Pytorch,Alexnet
 * Functions: Face entry, Face capture, Information matching, Attendance information uploading to the cloud, Website management of attendance information.
-<img src='/images/fragment.png'>
+
+<img src='/images/fragement.png'>
 <img src='/images/procedure.png'>
