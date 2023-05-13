@@ -16,4 +16,4 @@ Microcontroller Development
     traffic light, temperature and humidity display.
     Finally I finished making the tractor car. 
 
-<img src='/images/car.png'> <img src='/images/transport.png'>
+<img src='/images/car.png'>
