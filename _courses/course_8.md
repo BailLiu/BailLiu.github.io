@@ -14,3 +14,4 @@ Digital transmission system for analog signals
 * Functions: The analog signal is transmitted after sampling, PCM coding, BPSK modulation and then restored at the receiver.
 
 <img src='/images/transmission.png'>
+[Download paper here](http://BailLiu.github.io/files/模拟信号数字化传输.pdf)
