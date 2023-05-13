@@ -9,3 +9,7 @@ journal: '计算机技术与发展'
 level: '中文核心'
 
 ---
+
+# Journal: '计算机技术与发展'
+# Level: '中文核心'
+# tate: '录用'
