@@ -3,7 +3,7 @@ title: "2FSK modulation circuit design and soldering"
 collection: courses
 type: "courses"
 permalink: /courses/course_6
-date:  2021-06-20
+date:  2022-09-20
 location: "City, Country"
 ---
 
