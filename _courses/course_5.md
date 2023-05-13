@@ -7,7 +7,7 @@ date:  2022-08-22
 location: "City, Country"
 ---
 
-Adjustable duty cycle square wave sawtooth wave generator
+Intelligent Attendance System
 ======
 * Platform: Pycharm
 * Technology: Python,OpenCV,Pytorch,Alexnet
