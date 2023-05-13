@@ -1,9 +1,8 @@
 ---
-title: "Microcontroller Development"
+title: "project_1"
 collection: courses
 type: "courses"
 permalink: /courses/course_1
-venue: "University 1, Department"
 date:  2020-06-08
 location: "City, Country"
 ---
