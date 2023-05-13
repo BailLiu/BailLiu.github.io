@@ -12,3 +12,5 @@ Digital transmission system for analog signals
 * Platform: Simulink
 * Technology: Communication principles
 * Functions: The analog signal is transmitted after sampling, PCM coding, BPSK modulation and then restored at the receiver.
+
+<img src='/images/transmission.png'>
