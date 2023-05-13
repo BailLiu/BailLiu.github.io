@@ -12,5 +12,6 @@ location: "City, Country"
 * Platform: Mlitisum,AD18
 * Technology: Communication principles, Circuit fundamentals
 * Functions: Voltage regulator circuit, Pseudo-random sequence generation circuit, Local oscillation generation circuit, Frequency divider circuit, Circuit for 2fsk   modulation.
+
 <img src='/images/fsk_1.png'>
 <img src='/images/fsk_2.png'>
