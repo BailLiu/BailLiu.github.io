@@ -10,3 +10,7 @@ Level: 'SCI2'
 state: '录用'
 
 ---
+
+# journal: 'IEEE Transactions on Network and Service Management'
+# Level: 'SCI2'
+# state: '录用'
