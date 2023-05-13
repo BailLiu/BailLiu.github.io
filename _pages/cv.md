@@ -19,7 +19,8 @@ Project experience
   * Platform: Arduino UNO
   * Technology:C,3D Printing
   * Tasks:Start by easy project,such as RFID card swipe system, 
-    traffic light, temperature and humidity display.Finally I finished making the tractor car.        
+    traffic light, temperature and humidity display.
+    Finally I finished making the tractor car.        
 * Summer 2021: Website Design
   * Platform: IDEA,Tomact,Postman
   * Technology:HTML, CSS, js,machine learning,database
@@ -40,15 +41,27 @@ Project experience
    for the playback of dial tone. The DTMF signal amplitude and frequency map of 
    the corresponding four-digit number is given and decoded to the corresponding 
    four-digit number based on the analysis of the Fourier transform.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ * Summer 2022: Intelligent Attendance System
+    * Platform: Pycharm
+    * Technology: Python,OpenCV,Pytorch,Alexnet
+    * Functions: Face entry, Face capture, Information matching, Attendance information 
+      uploading to the cloud, Website management of attendance information.
+ * Summer 2022:2FSK modulation circuit design and soldering
+    * Platform: Mlitisum,AD18
+    * Technology: Communication principles, Circuit fundamentals
+    * Functions: Voltage regulator circuit, Pseudo-random sequence generation circuit, 
+      Local oscillation generation circuit, Frequency divider circuit, Circuit for 2fsk modulation.
+ * Fall 2022:Asynchronous FIFO design and implementation
+    * Platform: Quartus Prime
+    * Technology: Verilog
+    * Task: Write full but not overflowing, read empty but not over read
+    * Functions: Dual-port RAM for data storage,Full judgment and data writing controller
+      Empty judgment and data reading controller,Empty and full judgment,Read or Write Synchronizer
+ * Fall 2022:Digital transmission system for analog signals
+    * Platform: Simulink 
+    * Technology: Communication principles
+    * Functions: The analog signal is transmitted after sampling, PCM coding,
+      BPSK modulation and then restored at the receiver.
 
 Publications
 ======
