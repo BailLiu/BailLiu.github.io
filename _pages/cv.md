@@ -56,7 +56,7 @@ Awards
 
 Skills
 ======
-CET6 532
-CET4 570
-NCRE Ⅱ C Prophecy
+CET6 532<br />
+CET4 570<br />
+NCRE Ⅱ C Prophecy<br />
 NCRE Ⅲ Database Technology
