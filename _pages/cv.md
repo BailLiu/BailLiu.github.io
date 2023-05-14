@@ -42,21 +42,21 @@ Publications
   
 Awards
 ======
-**2021** National Third Prize of Mathematical Modeling Competition of National University Students<br />
-**2022** Merit Award in National University Student Information Security Competition<br />
-**2022** Shandong Student Physics Competition, Second Prize of Shandong Province<br />
-**2022** Shandong University Student Optoelectronics Competition, Third Prize of Shandong Province<br />
-**2023** National Second Prize of National University Student Mathematical Competition (Non-Mathematical Category)<br />
-**2023** "Datang Cup" National University Student Mobile Communication 5G Technology Competition, Third Prize of Shandong Province<br />
-**2021** First-class Comprehensive Scholarship<br />
-**2022** Science and Technology Innovation Scholarship<br />
-**2022** Hisense Scholarship<br />
-**2021** Outstanding Student<br />
-**2022** Outstanding Youth League Cadre<br />
+* **2021** National Third Prize of Mathematical Modeling Competition of National University Students<br />
+* **2022** Merit Award in National University Student Information Security Competition<br />
+* **2022** Shandong Student Physics Competition, Second Prize of Shandong Province<br />
+* **2022** Shandong University Student Optoelectronics Competition, Third Prize of Shandong Province<br />
+* **2023** National Second Prize of National University Student Mathematical Competition (Non-Mathematical Category)<br />
+* **2023** "Datang Cup" National University Student Mobile Communication 5G Technology Competition, Third Prize of Shandong Province<br />
+* **2021** First-class Comprehensive Scholarship<br />
+* **2022** Science and Technology Innovation Scholarship<br />
+* **2022** Hisense Scholarship<br />
+* **2021** Outstanding Student<br />
+* **2022** Outstanding Youth League Cadre<br />
 
 Skills
 ======
-CET6 532<br />
-CET4 570<br />
-NCRE Ⅱ C Prophecy<br />
-NCRE Ⅲ Database Technology
+* CET6 532<br />
+* CET4 570<br />
+* NCRE Ⅱ C Prophecy<br />
+* NCRE Ⅲ Database Technology
