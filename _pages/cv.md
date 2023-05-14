@@ -58,5 +58,5 @@ Skills
 ======
 * CET6 532<br />
 * CET4 570<br />
-* NCRE Ⅱ C Prophecy<br />
+* NCRE Ⅱ C Programming Language<br />
 * NCRE Ⅲ Database Technology
