@@ -9,7 +9,7 @@ location: "City, Country"
 
 2FSK modulation circuit design and soldering
 ======
-* Platform: Mlitisum,AD18
+* Platform: Miltisim,AD18
 * Technology: Communication principles, Circuit fundamentals
 * Functions: Voltage regulator circuit, Pseudo-random sequence generation circuit, Local oscillation generation circuit, Frequency divider circuit, Circuit for 2fsk   modulation.
 
