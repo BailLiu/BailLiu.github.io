@@ -12,5 +12,5 @@ state: 'Published'
 ---
 *Journal: IEEE Transactions on Network and Service Management*<br />
 *Level: SCI2*<br />
-*State: Accepted*
+*State: Accepted*   
 [View the whole paper](https://ieeexplore.ieee.org/document/10124232)
