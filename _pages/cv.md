@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Comunication Engineering, China University of Petroleum, 2020
-
+* M.S. in Electronic Information, Beihang University in China, 2024
 Research experience
 ======
 * 2021.9 ~2023.5 ***"Research on Maritime Ship Tracking Based on Synthetic Aperture Radar Images"***<br />
@@ -56,7 +56,8 @@ Awards
 
 Skills
 ======
-* CET6 532<br />
+* CET6 560<br />
 * CET4 570<br />
 * NCRE Ⅱ C Programming Language<br />
 * NCRE Ⅲ Database Technology
+* NCRE IV Database Engineer
